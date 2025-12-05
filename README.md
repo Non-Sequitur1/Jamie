@@ -1,7 +1,3 @@
-Here’s a humorous `README.md` draft for your esolang:
-
-***
-
 # JamieLang: The One True Language Blessed by Parsley 🌿
 
 > *“In the beginning, there was Scala. And Jamie said, ‘Let there be Parsley.’ And it was good.”*
